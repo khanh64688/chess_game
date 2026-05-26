@@ -1,6 +1,3 @@
-Link video demo:
-https://www.youtube.com/watch?v=vKxh4vjGzHI
-
 Link slide demo:
 https://www.canva.com/design/DAGni0Li6fU/K-1VTWUkTA82XfuLhu80VA/edit?fbclid=IwZXh0bgNhZW0CMTEAAR4RPsWJ4d-zxvrluDpWt5_hByf_LZgch_LGbDgC-CBqOzvf58PD-XzkzwSnbA_aem_OGjBYSZE75iNGme3qjiQgg
 
@@ -24,7 +21,7 @@ https://www.canva.com/design/DAGni0Li6fU/K-1VTWUkTA82XfuLhu80VA/edit?fbclid=IwZX
   - Highlight khi chiếu, thông báo chiếu hết/hoà.  
   - Tùy chỉnh thời gian suy nghĩ của AI
 - **elo**:
-	- đánh thắng bot elo 2700 trong chess.com với tỷ lệ >85%
+	- đánh thắng bot elo 2800 trong chess.com với tỷ lệ >85%
 
 ---
 
@@ -46,7 +43,3 @@ https://www.canva.com/design/DAGni0Li6fU/K-1VTWUkTA82XfuLhu80VA/edit?fbclid=IwZX
     - b3: gõ lệnh: python main.py
 
 ---
-
-## Đóng góp thành viên:
-- khánh, huy anh: backend + engine
-- hào, bảo: frontend + logic game + hỗ trợ backend và engine
