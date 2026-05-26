@@ -1,7 +1,3 @@
-Link slide demo:
-https://www.canva.com/design/DAGni0Li6fU/K-1VTWUkTA82XfuLhu80VA/edit?fbclid=IwZXh0bgNhZW0CMTEAAR4RPsWJ4d-zxvrluDpWt5_hByf_LZgch_LGbDgC-CBqOzvf58PD-XzkzwSnbA_aem_OGjBYSZE75iNGme3qjiQgg
-
-
 # Cờ Vua
 
 Ứng dụng trò chơi cờ vua với giao diện đồ họa sử dụng **Pygame** (Python) kết hợp engine cờ tự viết bằng **C++** theo giao thức UCI.
